@@ -1,0 +1,99 @@
+[[voropp_wrapper]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4ba23fa89e1280ce79573f56f70fe01be121c2d3"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[voropp_wrapper.download]]
+    sha256 = "178c2f398fc9fc0d5ea4ee866a0c5ee55bf4adfd3db10d8603562c55d72a9104"
+    url = "https://github.com/vvpisarev/voropp_wrapper_jll.jl/releases/download/voropp_wrapper-v0.1.0+1/voropp_wrapper.v0.1.0.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[voropp_wrapper]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2fa89a57da096b102e34a228cca2e909b4573251"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[voropp_wrapper.download]]
+    sha256 = "11ad16532d20972184dfaa6d55b74ab99bda265a82bf91665e4d69fcb16e2b52"
+    url = "https://github.com/vvpisarev/voropp_wrapper_jll.jl/releases/download/voropp_wrapper-v0.1.0+1/voropp_wrapper.v0.1.0.aarch64-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+[[voropp_wrapper]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "96ecfc8da01f933e9282df6b37438a1c31f23c0f"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[voropp_wrapper.download]]
+    sha256 = "582d9027128c7122986ffe6c674b17067ba4d900e40917d570f804e46b28d5ed"
+    url = "https://github.com/vvpisarev/voropp_wrapper_jll.jl/releases/download/voropp_wrapper-v0.1.0+1/voropp_wrapper.v0.1.0.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[voropp_wrapper]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3febb9995f2cbf7463a5bd5781373e19b82f98c7"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[voropp_wrapper.download]]
+    sha256 = "4d1b266dcae2e7338daf5ded748ca925e10abf3d800f33df906f6eb7b08acc4b"
+    url = "https://github.com/vvpisarev/voropp_wrapper_jll.jl/releases/download/voropp_wrapper-v0.1.0+1/voropp_wrapper.v0.1.0.i686-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[voropp_wrapper]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7f202cdb250a99674c300b2b4a8225361931d4c6"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[voropp_wrapper.download]]
+    sha256 = "ea71b9363888e7bd4bb6022304bacaf6a0e182ed92646fe72f894ce7cfa54a90"
+    url = "https://github.com/vvpisarev/voropp_wrapper_jll.jl/releases/download/voropp_wrapper-v0.1.0+1/voropp_wrapper.v0.1.0.i686-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+[[voropp_wrapper]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c3877b280cb225dc0ee7c9766d34f4b5ac2d36af"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[voropp_wrapper.download]]
+    sha256 = "c5f3f1c1a432433866524657d4fa2d75bebd826104c708ff08ed8e5492fe4da0"
+    url = "https://github.com/vvpisarev/voropp_wrapper_jll.jl/releases/download/voropp_wrapper-v0.1.0+1/voropp_wrapper.v0.1.0.i686-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[voropp_wrapper]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "595bfa1132de3130be429b7f8e2a46b6f3f3c45d"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[voropp_wrapper.download]]
+    sha256 = "29dca7a43811d1971616115aaea92d6cc5c8593439e3e08e5357a6903234f7a7"
+    url = "https://github.com/vvpisarev/voropp_wrapper_jll.jl/releases/download/voropp_wrapper-v0.1.0+1/voropp_wrapper.v0.1.0.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[voropp_wrapper]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f211fd95ba20d84a61df2b5bcd920c1efe93e500"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[voropp_wrapper.download]]
+    sha256 = "36544e460713628509b228338800cd4e7191c9c7fd886797acbac62db46858b6"
+    url = "https://github.com/vvpisarev/voropp_wrapper_jll.jl/releases/download/voropp_wrapper-v0.1.0+1/voropp_wrapper.v0.1.0.x86_64-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+[[voropp_wrapper]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bd31d7729e102a0a0bae1d58872001868f84b6d3"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[voropp_wrapper.download]]
+    sha256 = "0a5498491c7461791b8ea1dd00662e37092734d3c2cb767400e8e5c53c296c9d"
+    url = "https://github.com/vvpisarev/voropp_wrapper_jll.jl/releases/download/voropp_wrapper-v0.1.0+1/voropp_wrapper.v0.1.0.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
