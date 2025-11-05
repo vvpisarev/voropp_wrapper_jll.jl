@@ -2,10 +2,11 @@
 export libvoropp_wrap
 
 using libcxxwrap_julia_jll
+using CompilerSupportLibraries_jll
 JLLWrappers.@generate_wrapper_header("voropp_wrapper")
 JLLWrappers.@declare_library_product(libvoropp_wrap, "libvoro++wrap.so")
 function __init__()
-    JLLWrappers.@generate_init_header(libcxxwrap_julia_jll)
+    JLLWrappers.@generate_init_header(libcxxwrap_julia_jll, CompilerSupportLibraries_jll)
     JLLWrappers.@init_library_product(
         libvoropp_wrap,
         "lib/libvoro++wrap.so",
